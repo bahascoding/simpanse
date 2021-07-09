@@ -1,0 +1,27 @@
+{
+  "name": "simpanse",
+  "version": "0.1.0",
+  "description": "simpan, pantau, selesai. 🇮🇩",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahascoding/simpanse.git"
+  },
+  "keywords": [
+    "ui",
+    "library"
+  ],
+  "author": "pembacod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahascoding/simpanse/issues"
+  },
+  "homepage": "https://github.com/bahascoding/simpanse#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  }
+}
